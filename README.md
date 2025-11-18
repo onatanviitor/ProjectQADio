@@ -1,8 +1,7 @@
 ## O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais
 
----
 ## O desafio deverá conter
----
+
 * O desafio deverá ser baseado no site [SwagLabs](https://saucedemo.com).
 
 * Um plano de fluxo de trabalho desenvolvido e do ciclo de vida do bug.
